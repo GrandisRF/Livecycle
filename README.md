@@ -3,6 +3,7 @@
 
 ###Screenshoot aplikasi
 ![livecycle](https://cloud.githubusercontent.com/assets/23449098/20267875/88494bb0-aa31-11e6-9f7d-2d5945313460.PNG)
+![livecycle2](https://cloud.githubusercontent.com/assets/23449098/22238760/08f1d098-e1c8-11e6-80aa-27f6499c1c61.png)
 
 ###Identitas Diri
 #####Nama : Grandis Rufaidah
